@@ -26,13 +26,12 @@ public class Ejercicio03 {
             suma = suma + arreglo[i];
         }
         media= suma / arreglo.length;
-        for(int i = 0; i < arreglo.length; i++){
+       /*  for(int i = 0; i < arreglo.length; i++){
             if(arreglo[1]< media){
                 elementosAbajoMedia = elementosAbajoMedia + 1;
             }else{
                 elementosArribaMedia = elementosArribaMedia + 1;
             }
-        }
-        }
+        } */
     }
 }
